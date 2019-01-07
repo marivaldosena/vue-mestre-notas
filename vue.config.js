@@ -1,3 +1,3 @@
 module.exports = {
-    baseUrl: "/"
+    baseUrl: "https://marivaldosena.github.io/vue-mestre-notas/"
 }

@@ -4,6 +4,12 @@ Gerenciador de notas desenvolvovido usando Vue.js. (Em Andamento)
 
 Para acessar ao projeto digite [https://marivaldosena.github.io/vue-mestre-notas/](https://marivaldosena.github.io/vue-mestre-notas)
 
+TODOS:
+
+- Implementar acesso offline (localStorage, sessionStorage ou indexedDB)
+- Implementar web manifest e service workers
+- Criar back-end com Firebase ou AWS Lambda?
+
 ## Project setup
 ```
 yarn install
