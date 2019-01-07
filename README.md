@@ -2,6 +2,8 @@
 
 Gerenciador de notas desenvolvovido usando Vue.js. (Em Andamento)
 
+Para acessar ao projeto digite [https://marivaldosena.github.io/vue-mestre-notas/](https://marivaldosena.github.io/vue-mestre-notas)
+
 ## Project setup
 ```
 yarn install
